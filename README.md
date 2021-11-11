@@ -1,6 +1,7 @@
 # portfolio-generator
 
-# Professional ReadME Generator
+# sdfsdf
+  ![License Badge](https://img.shields.io/badge/License-Apache-brightgreen)
 
   ## Table of Contents
   * [Description](#description)
@@ -13,22 +14,22 @@
   * [License](#license)
   
   ## Description
-  The use of this project is to use node.js to help create a readme file on the fly
+  sdfsdfsd
   
   ## Installation Instructions
-  You must enter npm i in your terminal within your root folder.
+  sdfsdfsd
   
   ## Usage
-  Users can create readme files with this template instead of creating them from a blank page.
+  sdfsdfsd
   
   ## Tests
-  Type in npm run test.
+  werwerwe
   
   ## Contributing
-  In order to contribute to the project you must have a github profile set up so we can pull from the same master branch.
+  ewerwe
   
   ## Questions
-  Please reach me at dfgdfg for any further questions. I have a repository with my examples at my GitHub [Link](https://github.com/dfg).
+  Please reach me at werwer for any further questions. I have a repository with my examples at my GitHub [Link](https://github.com/werwer).
   
   ## License
-  ![License badge](https://img.shields.io/badge/license-Apache-brightgreen).
+    ![License](https://choosealicense.com/licenses/apache-2.0/)

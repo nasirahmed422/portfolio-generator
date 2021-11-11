@@ -1,7 +1,7 @@
 # portfolio-generator
 
-# sfsd
-  ![License Badge](https://img.shields.io/badge/License-Apache-brightgreen)
+# Title
+  ![License Badge](https://img.shields.io/badge/License-MIT-brightgreen)
 
   ## Table of Contents
   * [Description](#description)
@@ -14,22 +14,22 @@
   * [License](#license)
   
   ## Description
-  sdfsfdf
+  Description
   
   ## Installation Instructions
-  sdfsdf
+  Installation Instructions
   
   ## Usage
-  sdfsdf
+  Usage
   
   ## Tests
-  sdfsdf
+  Test Instructions
   
   ## Contributing
-  sdfsdf
+  Contribution Guidelines
   
   ## Questions
-  Please reach me at sf for any further questions. I have a repository with my examples at my GitHub [Link](https://github.com/fsdfs).
+  Please reach me at test@email.copm for any further questions. I have a repository with my examples at my GitHub [Link](https://github.com/Nas).
   
   ## License
-    [Apache](https://choosealicense.com/licenses/apache-2.0/)
+    MIT: https://choosealicense.com/licenses/mit/

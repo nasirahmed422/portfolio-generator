@@ -1,7 +1,7 @@
 # portfolio-generator
 
-# Title
-  ![License Badge](https://img.shields.io/badge/License-Mozilla Public-brightgreen)
+# sdfsd
+  ![License Badge](https://img.shields.io/badge/License-Apache-brightgreen)
 
   ## Table of Contents
   * [Description](#description)
@@ -20,16 +20,16 @@
   sdfsdf
   
   ## Usage
-  sdfsdf
+  sdf
   
   ## Tests
-  npm run test
-  
-  ## Contributing
   sfd
   
-  ## Questions
-  Please reach me at fsdfsdf for any further questions. I have a repository with my examples at my GitHub [Link](https://github.com/sfsdf).
+  ## Contributing
+  sdf
   
-  ## License
-    [License] (https://choosealicense.com/licenses/mpl-2.0/)
+  ## Questions
+  Please reach me at sdfsd for any further questions. I have a repository with my examples at my GitHub [Link](https://github.com/sdfs).
+  
+  ## License 
+Apache: https://choosealicense.com/licenses/apache-2.0/

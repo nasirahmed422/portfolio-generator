@@ -1,7 +1,7 @@
 # portfolio-generator
 
 # Title
-  ![License Badge](https://img.shields.io/badge/License-MIT-brightgreen)
+  ![License Badge](https://img.shields.io/badge/License-Mozilla Public-brightgreen)
 
   ## Table of Contents
   * [Description](#description)
@@ -14,22 +14,22 @@
   * [License](#license)
   
   ## Description
-  Description
+  sdfsdf
   
   ## Installation Instructions
-  Installation Instructions
+  sdfsdf
   
   ## Usage
-  Usage
+  sdfsdf
   
   ## Tests
-  Test Instructions
+  npm run test
   
   ## Contributing
-  Contribution Guidelines
+  sfd
   
   ## Questions
-  Please reach me at test@email.copm for any further questions. I have a repository with my examples at my GitHub [Link](https://github.com/Nas).
+  Please reach me at fsdfsdf for any further questions. I have a repository with my examples at my GitHub [Link](https://github.com/sfsdf).
   
   ## License
-    MIT: https://choosealicense.com/licenses/mit/
+    [License] (https://choosealicense.com/licenses/mpl-2.0/)

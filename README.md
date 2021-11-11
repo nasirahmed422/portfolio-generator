@@ -28,7 +28,7 @@
   In order to contribute to the project you must have a github profile set up so we can pull from the same master branch.
   
   ## Questions
-  Please reach me at nasirahmed422@gmail.com for any further questions. I have a repository with my examples at my GitHub [Link]](https://github.com/nasirahmed422).
+  Please reach me at dfgdfg for any further questions. I have a repository with my examples at my GitHub [Link](https://github.com/dfg).
   
   ## License
   ![License badge](https://img.shields.io/badge/license-Apache-brightgreen).

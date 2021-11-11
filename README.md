@@ -1,7 +1,7 @@
 # portfolio-generator
 
-# sdfsdf
-  ![License Badge](https://img.shields.io/badge/License-Apache-brightgreen)
+# Tile
+  ![License Badge](https://img.shields.io/badge/License-Boost Software-brightgreen)
 
   ## Table of Contents
   * [Description](#description)
@@ -14,22 +14,22 @@
   * [License](#license)
   
   ## Description
-  sdfsdfsd
+  Description
   
   ## Installation Instructions
-  sdfsdfsd
+  Installation Instruction
   
   ## Usage
-  sdfsdfsd
+  Usage
   
   ## Tests
-  werwerwe
+  Test Instructions
   
   ## Contributing
-  ewerwe
+  Contribution Guidelines
   
   ## Questions
-  Please reach me at werwer for any further questions. I have a repository with my examples at my GitHub [Link](https://github.com/werwer).
+  Please reach me at test@email.com for any further questions. I have a repository with my examples at my GitHub [Link](https://github.com/githubtest).
   
   ## License
-    ![License](https://choosealicense.com/licenses/apache-2.0/)
+    [Boost Software](https://choosealicense.com/licenses/bsl-1.0/)
